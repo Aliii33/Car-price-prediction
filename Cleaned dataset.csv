@@ -1,0 +1,1000 @@
+,brand,model,model_year,milage,fuel_type,price
+1,Hyundai,Palisade SEL,2021,34742,Gasoline,38005
+2,Lexus,RX 350 RX,2022,22372,Gasoline,54598
+4,Audi,Q3 45 S,2021,9835,Gasoline,34999
+5,Acura,ILX 2.4L,2016,136397,Gasoline,14798
+6,Audi,S3 2.0T Premium,2017,84000,Gasoline,31000
+7,BMW,740 iL,2001,242000,Gasoline,7300
+8,Lexus,RC 350 F,2021,23436,Gasoline,41927
+10,Land,Rover Range Rover,2021,27608,Gasoline,73897
+11,Aston,Martin DBS Superleggera,2019,22770,Gasoline,184606
+12,Toyota,Supra 3.0 Premium,2021,12500,Gasoline,53500
+13,Lincoln,Aviator Reserve AWD,2022,18196,Gasoline,62000
+14,Jaguar,F-TYPE,2020,15903,Gasoline,47998
+15,Land,Rover LR4 HSE,2013,79800,Gasoline,29990
+16,Mercedes-Benz,Metris Base,2021,1685,Gasoline,250000
+17,Dodge,Challenger SXT,2013,61074,Gasoline,16800
+18,Nissan,350Z Enthusiast,2003,74000,Gasoline,11000
+19,Jaguar,F-TYPE R,2018,35250,Gasoline,68750
+20,Genesis,GV70 3.5T Sport,2023,5400,Gasoline,60000
+22,BMW,440 Gran Coupe,2020,25990,Gasoline,38598
+23,Ford,F-150 XLT,2023,2823,Gasoline,58504
+24,Chevrolet,Suburban RST,2021,52000,Gasoline,61000
+25,Hyundai,Elantra N Base,2022,11650,Gasoline,32300
+26,Nissan,Sentra SR,2016,96541,Gasoline,13998
+27,Mercedes-Benz,AMG CLA 45,2021,17500,Gasoline,59995
+28,BMW,650 Gran Coupe,2015,69000,Gasoline,25700
+30,Mercedes-Benz,AMG C 43,2018,28800,Gasoline,48000
+31,Dodge,Ram 1500 Laramie,2006,300183,Gasoline,10900
+33,Kia,Sorento SX,2011,171000,Gasoline,5999
+34,Lexus,LX 570 Base,2016,118700,Gasoline,46900
+35,Jeep,New Compass Trailhawk,2017,119000,Gasoline,15900
+36,BMW,340 i,2018,44261,Gasoline,33598
+37,Audi,A4 2.0T Premium,2012,125575,Gasoline,8999
+38,Hyundai,Tucson SE,2007,16200,Gasoline,8200
+39,BMW,Z4 sDrive28i,2014,70000,Gasoline,20000
+41,Honda,Passport Elite,2023,2978,Gasoline,45498
+42,Dodge,Sprinter 2500,2007,189719,Diesel,14000
+43,BMW,M850 i xDrive,2019,9949,Gasoline,75798
+45,Audi,A7 Premium,2012,54000,Gasoline,36880
+46,Chevrolet,Silverado 1500 Custom,2021,51351,Gasoline,43147
+47,MINI,Convertible John Cooper,2017,24280,Gasoline,29000
+48,Toyota,Avalon Touring,2016,89148,Gasoline,17500
+49,Porsche,Cayenne Platinum Edition,2017,73043,Gasoline,30990
+50,Mercedes-Benz,AMG C 63,2017,60000,Gasoline,52500
+51,Honda,CR-V EX-L,2016,73549,Gasoline,20848
+52,Hummer,H2 Base,2005,110900,Gasoline,19500
+53,Porsche,911 Carrera S,2013,39000,Gasoline,73000
+54,Mercedes-Benz,CLA-Class CLA 250,2016,120000,Gasoline,19800
+55,Chrysler,300 Touring,2009,134602,Gasoline,7500
+56,Nissan,Rogue SV,2023,1094,Gasoline,30999
+57,Audi,A3 2.0T,2010,83500,Gasoline,6500
+58,Ford,Mustang GT Premium,2014,37060,Gasoline,28500
+59,Acura,RL Technology,2010,97700,Gasoline,10995
+61,Audi,R8 5.2 V10,2018,8940,Gasoline,144900
+62,Mercedes-Benz,GLK-Class GLK 350,2014,186000,Gasoline,10000
+63,Toyota,C-HR LE,2021,13180,Gasoline,23998
+64,Lexus,IS 350 Base,2014,104000,Gasoline,21000
+66,BMW,M4 CS,2019,19069,Gasoline,69998
+67,Cadillac,CT5 Premium Luxury,2023,6090,Gasoline,46900
+69,Audi,A5 2.0T Premium,2019,47523,Gasoline,31000
+70,Chrysler,300C SRT8,2006,43000,Gasoline,19995
+71,Bentley,Continental GT W12,2017,14684,Gasoline,130000
+72,BMW,M4 Base,2019,57800,Gasoline,55999
+73,Toyota,GR Corolla Circuit,2023,952,Gasoline,49950
+74,Audi,RS 5 2.9T,2019,21240,Gasoline,59950
+75,Porsche,Cayenne Base,2019,59338,Gasoline,42499
+76,Lamborghini,Huracan Tecnica Coupe,2023,255,Gasoline,359991
+77,Maserati,Quattroporte S,2019,23230,Gasoline,44999
+78,Jaguar,XF 35t R-Sport,2017,48000,Gasoline,30000
+79,Lexus,ES 330 Base,2005,41059,Gasoline,11100
+80,Land,Rover Discovery Sport,2020,21240,Gasoline,37998
+81,Porsche,Cayman GTS,2015,11500,Gasoline,72000
+82,Genesis,G90 3.3T Premium,2021,9950,Gasoline,53950
+83,Volkswagen,Golf R 20th,2023,633,Gasoline,47999
+85,Audi,RS 7 4.0T,2014,59715,Gasoline,45000
+86,BMW,740 Li,2012,85252,Gasoline,18500
+88,BMW,M6 Base,2016,25500,Gasoline,55000
+89,Subaru,Forester 2.5 X,2004,210703,Gasoline,2300
+90,Hyundai,Elantra N Base,2023,3800,Gasoline,34000
+93,Aston,Martin DBS Superleggera,2021,2165,Gasoline,279950
+94,Mercedes-Benz,SLC 300 Base,2018,33000,Gasoline,29900
+95,BMW,435 Gran Coupe,2016,76009,Gasoline,24950
+96,Jeep,Grand Cherokee Summit,2020,31349,Gasoline,39366
+97,Lexus,RC 350 Base,2015,48000,Gasoline,32900
+98,BMW,525 i,2005,91420,Gasoline,8900
+99,Toyota,Corolla LE,2003,124756,Gasoline,4995
+100,Cadillac,CT5-V Blackwing,2023,2415,Gasoline,104900
+101,GMC,Acadia SLT-1,2012,116226,Gasoline,7900
+102,Lexus,LC 500 Base,2020,37869,Gasoline,75950
+105,Cadillac,CT5-V V-Series,2022,4451,Gasoline,55655
+106,BMW,540 i xDrive,2020,27158,Gasoline,39998
+107,Chevrolet,Express 1500 Work,2014,139804,Gasoline,14500
+108,Jeep,Gladiator Rubicon,2022,27300,Gasoline,47500
+109,BMW,Z4 sDrive28i,2014,36812,Gasoline,27000
+110,Land,Rover LR4 HSE,2016,144000,Gasoline,18000
+111,Cadillac,XT4 Sport,2019,44500,Gasoline,28900
+112,BMW,750 750i xDrive,2021,10917,Gasoline,73998
+113,Bentley,Arnage R,2005,8332,Gasoline,47350
+114,Lincoln,Aviator Reserve AWD,2020,51247,Gasoline,47698
+115,Mercedes-Benz,AMG GL AMG,2016,69000,Gasoline,36500
+116,RAM,ProMaster 3500 High,2021,147834,Gasoline,32662
+118,Audi,A5 2.0T Premium,2011,92203,Gasoline,9995
+119,Nissan,GT-R Premium,2010,15600,Gasoline,69500
+120,Land,Rover Range Rover,2018,104700,Gasoline,30775
+121,Toyota,Corolla LE,2010,72348,Gasoline,9995
+123,Mercedes-Benz,C-Class C300 4MATIC,2022,13177,Gasoline,44798
+128,Audi,Q7 3.0T Premium,2015,98527,Gasoline,9995
+131,Audi,TTS 2.0T Premium,2012,72922,Gasoline,25999
+132,BMW,650 Gran Coupe,2015,41000,Gasoline,30000
+133,Subaru,Forester Premium,2021,42125,Gasoline,27899
+134,Mercedes-Benz,AMG C AMG,2016,62000,Gasoline,40000
+135,Land,Rover LR3 HSE,2006,153843,Gasoline,9950
+136,BMW,X7 xDrive40i,2019,35248,Gasoline,53998
+137,Ford,Transit Connect XLT,2015,194454,Gasoline,9888
+138,Lexus,LX 570 Three-Row,2021,21000,Gasoline,89999
+139,Porsche,911 Carrera S,2013,18494,Gasoline,86900
+140,Dodge,Ram 2500 Laramie,2006,218000,Gasoline,12990
+141,Nissan,Armada SL,2021,67800,Gasoline,36500
+142,Porsche,Cayman Base,2014,79000,Gasoline,42999
+144,Chevrolet,Monte Carlo SS,2006,66840,Gasoline,12000
+145,BMW,M5 Base,2013,86000,Gasoline,32000
+146,Hyundai,Kona N Base,2023,654,Gasoline,34599
+147,Chevrolet,Monte Carlo SS,2005,75000,Gasoline,12500
+148,Land,Rover Range Rover,2015,84000,Gasoline,22800
+149,Audi,S7 4.0T Premium,2017,52500,Gasoline,39999
+150,GMC,Acadia SLT-1,2011,120000,Gasoline,7500
+151,Alfa,Romeo Stelvio Ti,2020,18665,Gasoline,35645
+152,Ferrari,FF Base,2016,19987,Gasoline,149900
+153,Kia,K900 5.0L,2017,36486,Gasoline,23950
+156,Toyota,4Runner SR5,2022,28377,Gasoline,36999
+157,Subaru,Forester Base,2020,32744,Gasoline,24000
+158,Porsche,Panamera 2,2012,54000,Gasoline,26000
+159,Toyota,Tacoma PreRunner,2008,202055,Gasoline,8500
+160,RAM,2500 Laramie,2019,65000,Diesel,65000
+161,Kia,Sportage Nightfall,2022,9686,Gasoline,30990
+162,Cadillac,DTS Base,2010,49620,Gasoline,10499
+163,Toyota,Land Cruiser Base,1997,213000,Gasoline,26500
+164,Nissan,GT-R Premium,2020,16010,Gasoline,114000
+165,Lexus,NX 350 F,2023,820,Gasoline,51998
+166,Audi,Q7 45 Premium,2021,68000,Gasoline,36499
+167,Lexus,LX 470 Base,1999,82000,Gasoline,25000
+168,GMC,Terrain SLE,2022,27352,Gasoline,27785
+169,Ford,Escape Limited,2012,129000,Gasoline,7000
+170,Lexus,LS 460 L,2014,106731,Gasoline,30000
+171,Ford,Expedition Platinum,2019,34672,Gasoline,45500
+172,Chevrolet,Malibu LTZ,2010,55900,Gasoline,8950
+173,Audi,RS 7 4.0T,2023,3158,Gasoline,128900
+174,Audi,A5 2.0T Premium,2015,82000,Gasoline,17000
+175,Genesis,G70 2.0T,2023,4785,Gasoline,42850
+176,Chevrolet,Trailblazer LS,2021,20497,Gasoline,22999
+177,Scion,tC Base,2013,177600,Gasoline,7100
+180,Porsche,911 GT2 RS,2018,4529,Gasoline,417500
+181,Ford,Explorer Timberline,2021,25240,Gasoline,39951
+182,Volvo,XC90 3.2,2011,88300,Gasoline,11500
+184,Audi,TT RS 2.5T,2018,20675,Gasoline,76000
+185,Lincoln,Navigator L,2008,95000,Gasoline,10900
+186,Hyundai,Elantra GLS,2010,107000,Gasoline,6250
+187,Audi,SQ5 3.0T Premium,2016,60000,Gasoline,24700
+188,Mitsubishi,Lancer Evolution GSR,2012,33000,Gasoline,34999
+190,Mercedes-Benz,Maybach S S,2016,108500,Gasoline,63500
+191,Nissan,GT-R Premium,2017,37800,Gasoline,149500
+192,Mercedes-Benz,GLS 550 Base,2018,74422,Gasoline,44798
+193,Chevrolet,Blazer Premier,2019,55621,Gasoline,34562
+194,Mazda,CX-9 Grand Touring,2021,46707,Gasoline,32541
+195,Ford,Expedition Max Limited,2022,26500,Gasoline,65900
+196,Nissan,Titan XD SV,2020,10001,Gasoline,47214
+197,Lexus,LX 570 Three-Row,2019,19050,Gasoline,76900
+198,Chevrolet,Traverse Premier,2020,52000,Gasoline,35800
+199,Mercedes-Benz,Sprinter High Roof,2014,65000,Diesel,54999
+200,BMW,X5 3.0i,2004,140000,Gasoline,6730
+201,Ford,Fusion SE,2018,75600,Gasoline,14950
+202,Lincoln,MKZ Base,2015,117292,Gasoline,12000
+203,Ford,GT,2005,1897,Gasoline,429998
+204,Genesis,G90 5.0 Ultimate,2017,26000,Gasoline,33600
+205,Lexus,LC 500 Base,2022,2071,Gasoline,99950
+206,Ford,Shelby GT500 Base,2014,15629,Gasoline,61900
+207,Saturn,Sky Base,2008,15020,Gasoline,18500
+208,Audi,RS Q8 4.0T,2022,11322,Gasoline,119900
+209,Toyota,Land Cruiser,2016,50361,Gasoline,65998
+210,Mercedes-Benz,SL-Class SL 550,2013,115000,Gasoline,36000
+211,Porsche,911 Carrera C2S,2005,28500,Gasoline,63500
+212,Mercedes-Benz,AMG GLA 45,2018,51700,Gasoline,32000
+213,Ford,Taurus X Limited,2008,148949,Gasoline,3900
+214,BMW,440 Gran Coupe,2018,39300,Gasoline,31750
+215,Honda,S2000 CR,2008,82323,Gasoline,28500
+216,Acura,Integra w/A-Spec Tech,2023,3574,Gasoline,34998
+217,Ford,Excursion Limited,2001,109357,Gasoline,12749
+218,Mercedes-Benz,SL-Class SL500 Roadster,2004,46000,Gasoline,18853
+219,Mercedes-Benz,CLS-Class CLS 550,2007,123112,Gasoline,104999
+220,INFINITI,G35 Sport,2007,37100,Gasoline,16900
+221,Volkswagen,Golf GTI 2.0T,2016,89000,Gasoline,14500
+222,Dodge,Challenger R/T Scat,2022,1240,Gasoline,53900
+223,Lincoln,Navigator L Reserve,2019,67073,Gasoline,47999
+224,Maserati,Ghibli S Q4,2015,28700,Gasoline,24900
+226,Mercedes-Benz,AMG G 63,2018,41000,Gasoline,108900
+227,Ford,Expedition Limited,2018,98995,Gasoline,34998
+228,Volkswagen,Routan SE,2012,123815,Gasoline,5000
+229,Bugatti,Veyron 16.4 Grand,2011,6330,Gasoline,1950995
+230,Toyota,Highlander XLE,2020,61341,Gasoline,34084
+231,Honda,Civic LX,2016,96473,Gasoline,15599
+232,Jeep,Wrangler Unlimited Sahara,2017,66107,Gasoline,31331
+233,Land,Rover Range Rover,2008,114287,Gasoline,9900
+234,Acura,ILX 2.0L w/Premium,2015,75000,Gasoline,14500
+235,BMW,M6 Base,2016,45800,Gasoline,36800
+237,BMW,X6 sDrive35i,2016,70582,Gasoline,35000
+238,Porsche,Cayman S,2014,33088,Gasoline,49750
+240,Cadillac,DTS Luxury II,2008,94155,Gasoline,10500
+241,Cadillac,ATS 3.6L Luxury,2016,25000,Gasoline,17999
+242,GMC,Sierra 1500 SLT,2016,99500,Gasoline,27995
+243,INFINITI,G37 x,2009,158564,Gasoline,8750
+244,Ford,Transit-350 XLT,2023,20000,Gasoline,78499
+245,Cadillac,XTS Luxury,2018,46711,Gasoline,20850
+246,Nissan,NV Passenger NV3500,2017,46496,Gasoline,41000
+247,Mercedes-Benz,GLS 450 Base,2019,19800,Gasoline,53800
+248,Toyota,Land Cruiser Base,2008,175000,Gasoline,37900
+249,Toyota,Land Cruiser Base,2016,61500,Gasoline,63500
+250,RAM,ProMaster 2500 Window,2016,49750,Gasoline,65000
+251,Lamborghini,Gallardo Base,2007,38800,Gasoline,100000
+252,Lincoln,MKZ Base,2011,83765,Gasoline,8995
+254,Lamborghini,Huracan Tecnica Coupe,2023,278,Gasoline,359991
+255,Alfa,Romeo Giulia Quadrifoglio,2022,1966,Gasoline,75900
+256,Chevrolet,Trailblazer LT,2021,50648,Gasoline,23995
+258,Lamborghini,Urus Base,2021,13692,Gasoline,257000
+259,INFINITI,G37 x,2013,60058,Gasoline,15000
+260,Maserati,Levante S,2017,54423,Gasoline,33950
+261,Toyota,Highlander Limited,2022,24001,Gasoline,47498
+262,Nissan,Armada SL,2022,14735,Gasoline,50998
+264,Ford,Shelby GT500 Base,2022,2050,Gasoline,94999
+265,Lincoln,Navigator L Reserve,2019,64855,Gasoline,46995
+267,RAM,1500 Laramie,2022,18051,Gasoline,47995
+268,Lincoln,Town Car Base,2004,36524,Gasoline,14900
+269,Acura,TLX w/A-Spec Package,2022,14896,Gasoline,39998
+271,Honda,CR-V EX,2003,224000,Gasoline,3900
+272,Mercedes-Benz,E-Class E 550,2014,80581,Gasoline,26000
+273,Mazda,MX-5 Miata Grand,2007,81400,Gasoline,11000
+274,Porsche,718 Boxster Base,2019,6700,Gasoline,63000
+275,Ford,Transit-350 XLT,2015,143000,Gasoline,22500
+276,Kia,Sportage SX Turbo,2017,87842,Gasoline,18688
+277,INFINITI,G37 S Sport,2010,116451,Gasoline,16500
+278,Nissan,Titan XD S,2019,53677,Gasoline,27900
+280,Land,Rover Discovery HSE,2019,20034,Gasoline,43998
+281,Ford,Transit-350 XLT,2020,32000,Diesel,68000
+282,INFINITI,Q70 3.7,2014,70312,Gasoline,19995
+283,Jeep,Gladiator Rubicon,2022,8794,Gasoline,54000
+284,Lincoln,MKX Base,2010,156000,Gasoline,5900
+285,Porsche,911 Carrera 4S,2020,25568,Gasoline,134999
+286,Mercedes-Benz,AMG C 43,2018,67100,Gasoline,34250
+287,Porsche,Cayman Base,2014,52000,Gasoline,37000
+288,Acura,MDX 3.7L Advance,2011,137200,Gasoline,12000
+289,Volkswagen,Golf R 4-Door,2018,36000,Gasoline,32000
+290,Kia,Forte GT-Line,2023,15500,Gasoline,24500
+291,BMW,M8 Competition,2020,10906,Gasoline,96998
+292,Lincoln,MKC Select,2019,49814,Gasoline,26545
+294,Toyota,Highlander XLE,2021,67039,Gasoline,34645
+295,Mazda,CX-30 Premium Package,2023,2636,Gasoline,28535
+296,Porsche,Cayenne Platinum Edition,2018,50166,Gasoline,43550
+297,Lincoln,MKZ Reserve,2017,37375,Gasoline,27500
+299,Porsche,718 Cayman S,2019,9500,Gasoline,69000
+300,Chevrolet,Corvette Base,2005,143095,Gasoline,16000
+301,Acura,RSX Type S,2002,80000,Gasoline,8500
+302,Ferrari,Roma Base,2021,3000,Gasoline,275000
+303,Porsche,Cayman S,2007,5856,Gasoline,45000
+304,Rolls-Royce,Phantom Drophead Coupe,2013,2958,Gasoline,488880
+305,Audi,SQ7 4.0T,2022,28927,Gasoline,74900
+307,Honda,Ridgeline RTL-E,2021,14442,Gasoline,38500
+308,Mercedes-Benz,CLK-Class 500 Cabriolet,2005,64000,Gasoline,12995
+309,Lexus,GX 470 Base,2004,154000,Gasoline,10000
+310,Lexus,NX 200t Base,2015,54000,Gasoline,27000
+311,Dodge,Dakota SLT Quad,2007,232492,Gasoline,6000
+312,Maserati,Ghibli S Q4,2020,25721,Gasoline,52645
+313,Land,Rover Discovery Sport,2020,20927,Gasoline,35998
+314,Aston,Martin DBX Base,2021,2353,Gasoline,159500
+315,Audi,Q3 45 S,2022,9325,Gasoline,33610
+316,Ford,Explorer XLT,2020,61001,Gasoline,28616
+317,Mercedes-Benz,AMG GLC 63,2018,71962,Gasoline,46900
+318,Subaru,BRZ Premium,2023,5800,Gasoline,29990
+319,BMW,640 i,2016,40080,Gasoline,28499
+320,Kia,Stinger GT2,2020,57000,Gasoline,36500
+322,Subaru,Forester 2.5 XT,2004,122000,Gasoline,9999
+323,Kia,Sportage X-Pro,2023,459,Gasoline,36998
+324,BMW,M4 Base,2016,62500,Gasoline,40500
+325,Hyundai,Equus Signature,2013,72000,Gasoline,17500
+326,Mercedes-Benz,AMG E 53,2020,8375,Gasoline,69900
+327,BMW,M550 i xDrive,2020,40000,Gasoline,53000
+328,Subaru,Impreza WRX STI,2014,77000,Gasoline,30000
+329,Mercedes-Benz,AMG G 63,2019,19593,Gasoline,159998
+330,Mazda,Mazda6 Grand Touring,2020,35902,Gasoline,22966
+331,Hyundai,Veloster Base,2013,800,Gasoline,9800
+332,Bentley,Bentayga S,2023,2600,Gasoline,239995
+334,Kia,Telluride SX,2020,69185,Gasoline,37405
+335,Maserati,GranTurismo Sport,2015,45000,Gasoline,41900
+336,BMW,540 i xDrive,2020,37426,Gasoline,39998
+337,INFINITI,M56 Base,2011,137000,Gasoline,8500
+339,Chevrolet,Corvette Stingray w/1LT,2023,4000,Gasoline,73900
+341,Lexus,GX 460 Base,2018,52100,Gasoline,38000
+342,BMW,X1 sDrive28i,2014,50100,Gasoline,10795
+343,Alfa,Romeo Stelvio Ti,2020,41000,Gasoline,32400
+344,RAM,1500 Big Horn,2021,70968,Gasoline,34000
+345,BMW,M4 Base,2015,26600,Gasoline,53000
+347,Volvo,S90 T5 Momentum,2018,95000,Gasoline,18000
+348,Subaru,Impreza WRX Sti,2005,94000,Gasoline,19500
+349,BMW,X6 xDrive40i,2020,45076,Gasoline,57998
+350,Cadillac,CTS 2.0L Turbo,2014,110000,Gasoline,11000
+351,Land,Rover Discovery Sport,2016,49083,Gasoline,21590
+352,Genesis,G90 5.0 Ultimate,2017,63500,Gasoline,27500
+353,Mercedes-Benz,CLK-Class CLK 350,2009,21500,Gasoline,18000
+354,Land,Rover Range Rover,2023,324,Gasoline,199998
+355,Kia,Optima EX,2019,68166,Gasoline,20818
+356,Toyota,Highlander SE,2018,53607,Gasoline,31853
+357,Mercedes-Benz,Sprinter 4500 High,2019,16813,Diesel,45900
+358,BMW,X1 xDrive28i,2020,18200,Gasoline,29500
+359,Audi,R8 5.2,2015,51000,Gasoline,102000
+360,Audi,S3 2.0T Tech,2018,16400,Gasoline,42800
+362,Audi,SQ5 3.0T Premium,2022,8497,Gasoline,52900
+363,Audi,A6 2.0T Premium,2016,68000,Gasoline,20000
+364,Lamborghini,Huracan EVO Base,2022,2523,Gasoline,288900
+365,BMW,328 xi,2007,83000,Gasoline,8995
+366,Audi,SQ5 3.0T Prestige,2018,25000,Gasoline,50000
+367,Cadillac,Escalade Sport Platinum,2021,15689,Diesel,97952
+368,BMW,M235 i,2014,125450,Gasoline,17200
+369,Kia,Telluride SX,2023,9822,Gasoline,50998
+370,Chevrolet,Express 3500 Base,2008,144000,Gasoline,22000
+371,GMC,Acadia SLE,2020,30900,Gasoline,27654
+372,BMW,X3 xDrive30i,2021,2492,Gasoline,41598
+373,Audi,TT 2.0T,2015,126760,Gasoline,14000
+374,Subaru,Outback 3.6R Touring,2017,100680,Gasoline,20500
+375,Mitsubishi,Eclipse Spyder GS,2001,90400,Gasoline,4495
+376,Hyundai,Santa Fe SEL,2022,26895,Gasoline,29800
+377,BMW,M5 Base,2018,20500,Gasoline,67000
+378,Dodge,Ram 1500 ST,2011,134000,Gasoline,10500
+381,Land,Rover Range Rover,2015,115550,Gasoline,17500
+384,Mercedes-Benz,Sprinter 3500 High,2017,124630,Diesel,75000
+385,Mercedes-Benz,AMG E 63,2019,17000,Gasoline,95000
+386,BMW,440 i xDrive,2018,73500,Gasoline,32000
+387,Acura,Integra LS,1998,120000,Gasoline,5500
+388,Audi,Q7 55 Prestige,2019,73837,Gasoline,36340
+389,BMW,M6 Base,2014,29500,Gasoline,40999
+390,Volkswagen,Arteon 2.0T SE,2021,13613,Gasoline,29798
+391,Lexus,LX 600 F,2023,1185,Gasoline,120990
+392,INFINITI,Q40 Base,2015,143250,Gasoline,11500
+393,BMW,Z4 3.0i Roadster,2006,46508,Gasoline,11500
+394,BMW,M6 Base,2015,18651,Gasoline,59549
+395,BMW,X3 M40i,2019,36438,Gasoline,39998
+396,Kia,Sorento LX,2014,46628,Gasoline,15363
+398,BMW,Z4 sDrive28i,2015,57550,Gasoline,29995
+399,Cadillac,CTS-V Base,2017,48600,Gasoline,60999
+400,Ford,Transit Connect XL,2020,119000,Gasoline,18000
+401,Land,Rover Range Rover,2020,36500,Gasoline,72000
+402,Lexus,IS 250 Base,2010,121250,Gasoline,13250
+404,Volvo,XC90 T6 Momentum,2018,110380,Gasoline,22000
+405,Hyundai,Tucson Limited,2008,149000,Gasoline,3850
+406,Dodge,Durango GT,2021,14684,Gasoline,37995
+407,Mercedes-Benz,AMG C 43,2017,39000,Gasoline,39000
+408,GMC,Yukon XL SLT,2019,65212,Gasoline,42995
+409,Audi,RS Q8 4.0T,2020,41856,Gasoline,91500
+412,Alfa,Romeo Stelvio Quadrifoglio,2019,26500,Gasoline,53900
+413,Land,Rover Range Rover,2020,38356,Gasoline,36598
+414,Alfa,Romeo Stelvio Ti,2020,21487,Gasoline,35345
+415,Cadillac,Escalade EXT Base,2007,99000,Gasoline,22999
+417,Nissan,350Z Enthusiast,2005,130307,Gasoline,9950
+418,Subaru,Legacy 2.5 i,2010,178000,Gasoline,7600
+419,Honda,Civic LX,2003,160265,Gasoline,3000
+420,McLaren,570S Spider,2020,8700,Gasoline,185000
+421,Maserati,Ghibli S Q4,2016,1000,Gasoline,36000
+422,Jeep,Wagoneer Series II,2022,29800,Gasoline,58900
+423,Maserati,Ghibli S Q4,2017,49750,Gasoline,27995
+424,Lexus,RX 300 Base,2002,121000,Gasoline,6348
+425,Lincoln,Aviator Luxury,2005,140000,Gasoline,2000
+427,Cadillac,SRX Luxury Collection,2016,61549,Gasoline,19998
+428,Lincoln,MKS EcoBoost,2016,38100,Gasoline,21000
+429,Toyota,Yaris Base,2010,138071,Gasoline,5000
+430,Mercedes-Benz,AMG E 63,2019,40000,Gasoline,72000
+432,Mercedes-Benz,G-Class G 550,2019,47850,Gasoline,127899
+433,Hyundai,Veloster Turbo R-Spec,2014,128000,Gasoline,11000
+434,Toyota,4Runner Limited,2019,48156,Gasoline,40368
+436,Audi,RS 7 4.0T,2017,39071,Gasoline,67900
+437,Mazda,MX-5 Miata Base,1999,96680,Gasoline,12900
+438,Mercedes-Benz,AMG C 43,2017,53500,Gasoline,33999
+439,Chevrolet,Corvette Z06,2007,11025,Gasoline,47500
+440,Ford,F-250 King Ranch,2021,44000,Diesel,73000
+441,Volkswagen,Tiguan 2.0T SE,2022,11000,Gasoline,27900
+442,BMW,750 Li xDrive,2012,103000,Gasoline,16000
+443,BMW,M3 CS,2024,456,Gasoline,128995
+444,Lexus,GX 460 Base,2018,64000,Gasoline,37300
+445,Audi,Q7 3.0T Premium,2017,108000,Gasoline,25999
+446,Alfa,Romeo Stelvio Ti,2018,37045,Gasoline,26600
+448,BMW,750 i xDrive,2019,28744,Gasoline,50998
+449,BMW,M3 Base,2015,65800,Gasoline,44950
+450,Rolls-Royce,Ghost Base,2021,850,Gasoline,314900
+452,Lexus,IS 250 Base,2011,107818,Gasoline,11400
+453,Land,Rover Range Rover,2016,79500,Gasoline,19000
+454,Ferrari,California T,2015,20000,Gasoline,124990
+455,Lexus,LC 500 Base,2018,37000,Gasoline,63997
+457,GMC,Sierra 1500 SLE,2005,131800,Gasoline,5800
+458,Lexus,ES 350 Base,2008,146000,Gasoline,8995
+459,Nissan,370Z NISMO,2010,29000,Gasoline,29000
+460,Dodge,Ram 1500 Laramie,2004,141209,Gasoline,5700
+461,Ford,Expedition Limited,2016,85253,Gasoline,19995
+462,INFINITI,QX70 Base,2015,87009,Gasoline,17800
+463,BMW,X5 M Base,2023,4348,Gasoline,105900
+464,Lincoln,Navigator Select,2016,158000,Gasoline,19780
+465,Volvo,V60 Cross Country,2020,10500,Gasoline,36000
+466,Audi,A7 3.0T Premium,2018,45843,Gasoline,37000
+467,Ford,Bronco Sport Outer,2021,15198,Gasoline,31621
+468,Volkswagen,Eurovan MV,2001,220000,Gasoline,5500
+469,Jaguar,F-TYPE R,2017,58000,Gasoline,51500
+471,RAM,1500 Laramie,2021,38012,Gasoline,45277
+473,BMW,M760 i xDrive,2021,11078,Gasoline,91900
+474,Lexus,LX 570 Three-Row,2018,50000,Gasoline,65000
+475,Land,Rover Range Rover,2019,58000,Gasoline,38000
+476,Acura,MDX w/Technology Package,2023,3415,Gasoline,54998
+477,Lexus,LC 500 Base,2018,61000,Gasoline,65000
+478,Audi,SQ5 3.0T Prestige,2019,48500,Gasoline,43500
+479,Land,Rover Range Rover,2018,65680,Gasoline,34900
+480,RAM,1500 Limited,2020,44362,Gasoline,50658
+481,Audi,S4 3.0T Premium,2019,18603,Gasoline,42900
+483,Cadillac,Escalade ESV Sport,2021,8044,Gasoline,93000
+484,Mercedes-Benz,AMG GT AMG,2016,9738,Gasoline,85500
+485,BMW,M3 Base,2009,112000,Gasoline,28000
+486,Honda,Accord EX-L,2009,167300,Gasoline,6250
+487,Rolls-Royce,Cullinan,2022,115,Gasoline,449995
+488,Cadillac,Escalade Premium,2015,71000,Gasoline,35999
+489,Acura,RDX Technology Package,2020,31015,Gasoline,36570
+490,BMW,X2 xDrive28i,2022,33000,Gasoline,29999
+493,Mercedes-Benz,AMG S 63,2020,20937,Gasoline,104900
+494,RAM,2500 Tradesman,2021,34365,Gasoline,48000
+495,Mercedes-Benz,Metris Base,2018,32000,Gasoline,44900
+496,Land,Rover Range Rover,2020,40237,Gasoline,36998
+497,Volvo,XC90 T6 Inscription,2020,22500,Gasoline,50000
+498,Ford,Expedition King Ranch,2020,58700,Gasoline,48999
+500,Toyota,Tundra SR5 Access,2005,209500,Gasoline,8500
+501,Ford,Transit-350 Base,2023,195,Gasoline,87500
+502,Chevrolet,Express 3500 LT,2016,120000,Diesel,19500
+506,Mercedes-Benz,AMG GT 53,2021,17994,Gasoline,87500
+507,Toyota,Tundra Limited,2020,44101,Gasoline,45423
+508,BMW,X1 xDrive28i,2021,25918,Gasoline,32000
+509,BMW,135 i,2008,87000,Gasoline,15300
+510,Mazda,Mazda3 Touring,2018,28333,Gasoline,20500
+511,Audi,A7 3.0T Premium,2018,29294,Gasoline,39999
+512,Saturn,Sky Red Line,2008,37000,Gasoline,14995
+513,BMW,Z4 2.5i Roadster,2005,138000,Gasoline,9950
+515,Acura,TLX A-Spec,2021,16878,Gasoline,38781
+516,Acura,MDX w/Technology Package,2022,30177,Gasoline,46598
+517,Chevrolet,Tahoe High Country,2021,53000,Gasoline,67100
+519,Mercedes-Benz,GLK-Class GLK 350,2013,99200,Gasoline,11495
+520,Chevrolet,Traverse LS,2022,32117,Gasoline,33299
+521,BMW,550 Gran Turismo,2013,79341,Gasoline,16800
+522,Land,Rover Range Rover,2007,220000,Gasoline,5750
+523,BMW,430 i xDrive,2021,16900,Gasoline,43000
+524,Porsche,Cayman Base,2007,75137,Gasoline,24999
+525,Ford,Expedition Max King,2021,37594,Gasoline,62595
+527,Mercedes-Benz,GLC 300 GLC,2021,12771,Gasoline,42598
+528,Ford,Mustang Shelby GT500,2012,6400,Gasoline,48000
+530,Nissan,370Z Base,2009,79893,Gasoline,15900
+531,Toyota,Sequoia Platinum,2014,124838,Gasoline,33000
+532,Nissan,NV Passenger NV3500,2020,14353,Gasoline,63900
+533,Ford,Transit Connect XL,2022,22985,Gasoline,33500
+534,INFINITI,QX80 Base,2014,161894,Gasoline,18900
+535,Aston,Martin V8 Vantage,2008,25025,Gasoline,39000
+536,Porsche,911 Carrera S,2017,16701,Gasoline,107998
+537,Lotus,Evora 400 Base,2017,19650,Gasoline,69250
+538,Land,Rover Range Rover,2020,29500,Gasoline,45000
+539,Nissan,Xterra S,2007,132272,Gasoline,6700
+540,Dodge,Charger R/T,2012,122000,Gasoline,13500
+541,Buick,Encore GX Essence,2022,18185,Gasoline,31755
+544,Jeep,Grand Wagoneer Series,2022,18428,Gasoline,83998
+545,Nissan,Z Proto Spec,2023,535,Gasoline,65990
+546,Land,Rover Range Rover,2013,81648,Gasoline,15900
+547,Porsche,Boxster S,2003,138202,Gasoline,22550
+548,Bentley,Continental GT Base,2004,69600,Gasoline,37900
+549,Jaguar,F-TYPE R,2018,39900,Gasoline,53600
+550,Cadillac,Escalade ESV Sport,2021,36500,Gasoline,85000
+551,Audi,TT 2.0T,2018,42650,Gasoline,31990
+552,Jeep,Wrangler Unlimited Sahara,2020,68816,Gasoline,35297
+553,Audi,S6 4.0T,2016,91188,Gasoline,29995
+556,Mazda,CX-90 Premium,2024,3880,Gasoline,52991
+558,Cadillac,Escalade ESV Platinum,2018,67726,Gasoline,52000
+559,Audi,TT 3.2 Cabriolet,2008,207000,Gasoline,10500
+560,Hyundai,Santa Fe SE,2021,35550,Gasoline,25987
+561,Mercedes-Benz,AMG GLE AMG,2016,44000,Gasoline,46599
+562,Mercedes-Benz,SL-Class SL 550,2015,11249,Gasoline,54500
+563,Acura,MDX 3.5L Technology,2014,111650,Gasoline,17500
+564,RAM,2500 Laramie,2019,18526,Diesel,67999
+565,Audi,A7 Premium,2012,103272,Gasoline,15500
+566,BMW,M2 Base,2023,1160,Gasoline,73600
+567,RAM,1500 Laramie,2019,107714,Gasoline,34918
+568,Audi,Q5 2.0T Premium,2013,111773,Gasoline,17000
+569,Cadillac,XTS Luxury,2019,54002,Gasoline,22500
+570,Volkswagen,Jetta 1.4T SE,2016,87000,Gasoline,13000
+571,Ford,Focus RS Base,2016,49700,Gasoline,31700
+572,Mercedes-Benz,AMG C 63,2017,34500,Gasoline,64600
+573,Ford,Bronco Sport Big,2021,31729,Gasoline,29614
+574,Jeep,Gladiator Overland,2021,7388,Gasoline,43663
+576,Mercedes-Benz,GLC 300 Base,2018,44486,Gasoline,25625
+577,Acura,MDX 3.7L Advance,2013,20750,Gasoline,33000
+578,Genesis,G70 3.3T,2022,12000,Gasoline,41000
+579,Lexus,LX 570 Three-Row,2021,14206,Gasoline,98000
+580,Jeep,Grand Cherokee L,2022,31700,Gasoline,43500
+582,Kia,Sportage LX,2009,100730,Gasoline,6975
+584,Ford,Expedition EL XLT,2014,85149,Gasoline,23598
+585,BMW,X6 M Base,2018,48291,Gasoline,67250
+586,Volkswagen,Eurovan MV,2001,111887,Gasoline,14000
+587,Rolls-Royce,Ghost Base,2010,79000,Gasoline,69000
+588,Lincoln,Navigator Reserve,2016,125000,Gasoline,26500
+589,Mercedes-Benz,GLA 250 Base,2022,13777,Gasoline,39777
+590,RAM,1500 Big Horn,2022,14920,Gasoline,41741
+591,Jeep,Grand Cherokee L,2022,14627,Gasoline,56740
+592,Volvo,S80 3.2,2010,90050,Gasoline,5800
+593,Subaru,BRZ Premium,2014,45000,Gasoline,25000
+594,Chevrolet,Corvette Base,1998,7666,Gasoline,39500
+595,Hummer,H2 SUT,2006,89900,Gasoline,29994
+597,Ford,Edge Sport,2011,132000,Gasoline,10999
+598,GMC,Terrain SLT,2010,32652,Gasoline,6500
+599,Land,Rover Range Rover,2018,36632,Gasoline,72567
+600,Jeep,Grand Cherokee WK,2022,11164,Gasoline,37500
+601,BMW,M4 Base,2020,22655,Gasoline,63999
+602,Mercedes-Benz,AMG GT 63,2019,9500,Gasoline,135000
+603,Chevrolet,Camaro 1LT,2021,10300,Gasoline,29900
+604,BMW,X6 M Base,2018,48000,Gasoline,54000
+605,Mercedes-Benz,CLK-Class 550,2007,138000,Gasoline,10000
+606,RAM,1500 TRX,2022,24058,Gasoline,81900
+607,Audi,RS 7 4.0T,2016,31500,Gasoline,67000
+608,Porsche,Macan S,2020,19701,Gasoline,55998
+609,Genesis,GV70 3.5T Sport,2022,10200,Gasoline,50500
+610,Aston,Martin V8 Vantage,2008,62378,Gasoline,33995
+611,Nissan,350Z Touring,2006,84200,Gasoline,10200
+613,Chevrolet,Tahoe Premier,2021,41050,Gasoline,62900
+614,Jeep,Compass Limited,2020,39192,Gasoline,24590
+615,BMW,430 430i,2022,7758,Gasoline,47998
+616,Ford,Bronco Sport Outer,2021,31654,Gasoline,33410
+617,Mercedes-Benz,AMG C 63,2017,63000,Gasoline,42000
+618,Volvo,S40 T5,2005,257700,Gasoline,3550
+619,Mercedes-Benz,GLE 350 Base,2017,57000,Gasoline,29500
+620,Chevrolet,Silverado 1500 1LT,2017,89000,Gasoline,29999
+621,Chevrolet,Tahoe LTZ,2015,134500,Gasoline,28000
+622,Acura,MDX Technology,2022,15895,Gasoline,47950
+623,Bentley,Bentayga Speed,2020,15109,Gasoline,162950
+624,Rolls-Royce,Cullinan,2022,398,Gasoline,695000
+625,Genesis,GV70 2.5T,2022,20319,Gasoline,44249
+626,Pontiac,Firebird Base,1999,158000,Gasoline,2500
+627,Lexus,GX 460 Base,2021,40906,Gasoline,51998
+628,BMW,ALPINA B7 ALPINA,2020,33749,Gasoline,85998
+629,BMW,M4 Competition xDrive,2023,1120,Gasoline,92900
+630,Jeep,Grand Cherokee L,2021,26088,Gasoline,38383
+631,Kia,Forte GT-Line,2022,14950,Gasoline,24000
+632,Kia,Forte LX,2018,47466,Gasoline,14699
+633,BMW,X6 M Base,2022,10376,Gasoline,98900
+634,RAM,ProMaster 3500 High,2021,18500,Gasoline,41950
+635,Volkswagen,Atlas Cross Sport,2021,24596,Gasoline,38322
+636,Hyundai,Santa Fe SEL,2021,2905,Gasoline,27599
+637,Jaguar,XF 3.0 Portfolio,2015,71290,Gasoline,21000
+639,INFINITI,QX30 Premium,2017,37900,Gasoline,22000
+640,Mercedes-Benz,AMG G 63,2022,2000,Gasoline,244896
+641,Mercedes-Benz,AMG C 43,2019,32500,Gasoline,43500
+642,Mitsubishi,Lancer Evolution Base,2003,61491,Gasoline,28000
+643,Jeep,Wrangler Unlimited Sport,2013,77634,Gasoline,24590
+644,Audi,A3 2.0 TDI,2015,83000,Diesel,18999
+645,Volkswagen,Jetta GLX VR6,2002,121800,Gasoline,4300
+646,BMW,ALPINA B7 ALPINA,2020,65852,Gasoline,68998
+647,Bentley,Bentayga Azure First,2023,1335,Gasoline,272950
+648,Mercedes-Benz,CLA-Class CLA 250,2014,83315,Gasoline,15000
+651,Toyota,Tundra SR5,2022,29322,Gasoline,44999
+652,Mercedes-Benz,SLC 300 Base,2019,23900,Gasoline,35999
+653,Mercedes-Benz,AMG C AMG,2016,40515,Gasoline,47999
+654,Ford,F-150 XLT,2020,67516,Gasoline,36994
+655,Mazda,CX-9 Grand Touring,2010,155000,Gasoline,8300
+656,Honda,Ridgeline RTL-E,2019,26998,Gasoline,35557
+657,Bentley,Bentayga Onyx Edition,2018,18500,Gasoline,115000
+658,MINI,Cooper S Clubman,2009,137600,Gasoline,6880
+659,Nissan,Murano SL,2005,125500,Gasoline,3950
+660,Bentley,Bentayga V8,2019,22039,Gasoline,113990
+661,Nissan,Juke SV,2011,137483,Gasoline,3200
+662,Ford,Expedition Max Limited,2019,67500,Gasoline,40500
+663,Ford,Expedition Max King,2020,52000,Gasoline,53722
+664,Lamborghini,Murcielago Base,2006,10000,Gasoline,259000
+665,Chevrolet,Suburban LT,2017,195361,Gasoline,26000
+666,Bentley,Bentayga Onyx Edition,2018,32500,Gasoline,103000
+667,BMW,M760 i xDrive,2019,14806,Gasoline,81330
+668,Genesis,GV70 2.5T,2022,11000,Gasoline,48950
+670,Dodge,Durango GT,2017,34845,Gasoline,30000
+671,Porsche,718 Cayman GTS,2018,16280,Gasoline,85500
+672,Porsche,Cayman Base,2011,77000,Gasoline,32000
+673,Porsche,Panamera Turbo,2010,63000,Gasoline,38500
+674,Lexus,ES 350 Base,2016,39700,Gasoline,25500
+676,Land,Rover Range Rover,2019,75897,Gasoline,35998
+677,Jaguar,XF S,2017,55000,Gasoline,34000
+678,Lexus,GX 470 Base,2005,114000,Gasoline,13450
+679,Mercedes-Benz,GL-Class GL 550,2011,80124,Gasoline,17500
+680,BMW,X6 M Base,2023,7000,Gasoline,144900
+681,RAM,1500 Longhorn,2023,4285,Gasoline,65688
+682,Lamborghini,Huracan LP580-2S,2019,17175,Gasoline,234900
+685,GMC,Suburban 2500,1996,95000,Gasoline,25000
+686,Land,Rover Range Rover,2020,59355,Gasoline,72995
+688,BMW,M240 i,2019,19300,Gasoline,36000
+690,Scion,tC Release Series,2010,120010,Gasoline,6500
+691,Kia,Optima EX,2012,152520,Gasoline,10900
+693,Maserati,Quattroporte Base,2005,32000,Gasoline,2954083
+694,Porsche,Panamera Turbo,2015,47000,Gasoline,50000
+695,Genesis,G70 2.0T,2023,2046,Gasoline,43499
+696,Chevrolet,Trailblazer LS,2021,24965,Gasoline,22995
+697,Toyota,Camry LE,2005,108000,Gasoline,7850
+698,Toyota,Sienna LE,2015,76000,Gasoline,18300
+699,Porsche,911 Carrera S,2014,30000,Gasoline,78500
+700,Volvo,V60 T6 R-Design,2015,59271,Gasoline,29900
+701,Lexus,LX 600 Premium,2023,1500,Gasoline,119500
+704,FIAT,124 Spider Abarth,2017,45000,Gasoline,22500
+705,Dodge,Ram 1500 Quad,2002,179000,Gasoline,6500
+706,Toyota,Supra A91-MT Edition,2023,1500,Gasoline,84900
+708,Jeep,Wrangler Unlimited X,2007,135465,Gasoline,15750
+709,MINI,Countryman Cooper S,2014,79000,Gasoline,17000
+710,Nissan,Maxima SV,2012,42259,Gasoline,17000
+711,Toyota,Camry Solara SLE,2006,159890,Gasoline,6500
+714,BMW,328 i xDrive,2013,96000,Gasoline,13500
+715,BMW,135 i,2009,72900,Gasoline,15500
+716,BMW,X7 M50i,2021,7121,Gasoline,94998
+718,Volvo,C30 T5 Premier,2013,73000,Gasoline,13900
+722,BMW,740 i,2016,73000,Gasoline,23999
+723,Ford,Edge SEL,2019,26465,Gasoline,24998
+724,Volkswagen,Arteon 2.0T SEL,2020,26870,Gasoline,34645
+725,Honda,Pilot EX,2004,184000,Gasoline,10500
+726,BMW,X7 ALPINA XB7,2022,4514,Gasoline,132998
+727,RAM,2500 Tradesman,2022,1300,Gasoline,48000
+728,Jeep,Grand Cherokee Limited,2018,49924,Gasoline,26500
+729,GMC,Yukon Denali,2019,36526,Gasoline,57850
+730,BMW,M6 Base,2015,37000,Gasoline,45950
+731,Acura,MDX 3.5L w/Advance,2017,79884,Gasoline,24840
+732,Volkswagen,Beetle 1.8T,2016,30000,Gasoline,19000
+733,BMW,X6 M Base,2021,11102,Gasoline,101000
+734,Ford,Mustang GT Premium,2012,105500,Gasoline,19000
+735,BMW,X7 xDrive50i,2019,31157,Gasoline,65998
+736,Kia,Sorento LX V6,2019,86204,Gasoline,20708
+737,BMW,435 i,2014,80211,Gasoline,17995
+738,Aston,Martin V8 Vantage,2010,25991,Gasoline,69995
+739,Mercedes-Benz,CLK-Class CLK 350,2008,73000,Gasoline,8400
+740,BMW,740 i,2018,40989,Gasoline,35000
+741,Dodge,Caliber Express,2010,102681,Gasoline,6000
+742,Acura,ZDX Base,2010,123000,Gasoline,13888
+743,Jeep,Wrangler X,2005,160900,Gasoline,7200
+744,BMW,M3 Base,2011,105000,Gasoline,21900
+747,BMW,M3 Base,2011,72277,Gasoline,34950
+749,Porsche,Panamera 4 Platinum,2022,10627,Gasoline,99000
+750,Ford,Explorer XLT,2020,67015,Gasoline,28590
+751,BMW,M4 Base,2018,19600,Gasoline,62000
+754,Cadillac,Escalade Luxury,2015,99897,Gasoline,26950
+755,Mercedes-Benz,SL-Class SL 550,2014,127500,Gasoline,29000
+756,Ford,Expedition Limited,2021,23842,Gasoline,59203
+758,BMW,M6 Base,2014,65550,Gasoline,39985
+759,Lamborghini,Huracan LP580-2,2017,22000,Gasoline,210000
+760,Ford,Bronco Wildtrak Advanced,2022,15600,Gasoline,68995
+761,Lexus,LC 500 Base,2021,22400,Gasoline,81900
+762,Lexus,LS 460 Crafted,2015,89150,Gasoline,31900
+763,BMW,M4 Base,2023,15000,Gasoline,81000
+764,Audi,A3 2.0T Tech,2018,49500,Gasoline,25000
+765,Audi,S8 4.2 quattro,2003,126000,Gasoline,13850
+766,Volkswagen,Golf GTI 2.0T,2015,85385,Gasoline,15550
+767,Cadillac,Escalade Sport,2023,3000,Diesel,123999
+768,Hyundai,Tucson SE,2018,66126,Gasoline,19190
+769,Toyota,GR86 Premium,2023,1075,Gasoline,35000
+770,Ford,Bronco Raptor,2023,2489,Gasoline,98900
+771,Hyundai,Santa Fe SEL,2021,25000,Gasoline,28500
+772,Nissan,Armada Platinum,2017,92000,Gasoline,20900
+773,Lexus,GX 470 Base,2008,123500,Gasoline,14500
+774,Cadillac,CTS Premium,2013,105000,Gasoline,12000
+775,Audi,R8 Base,2008,49000,Gasoline,63000
+776,Jaguar,F-PACE S,2020,28357,Gasoline,47598
+778,Ford,Expedition Limited,2021,45000,Gasoline,52000
+782,Toyota,Avalon XLE,2015,90000,Gasoline,18200
+783,Porsche,Macan Base,2017,40600,Gasoline,32000
+784,Lexus,IS 350 F,2023,20121,Gasoline,47124
+785,Mercedes-Benz,Metris Base,2020,3921,Gasoline,175000
+786,Lexus,RX 350 Base,2011,187450,Gasoline,10400
+787,Toyota,Supra A91 Edition,2021,6400,Gasoline,68000
+788,Mercedes-Benz,AMG C 43,2017,54500,Gasoline,37995
+789,BMW,X6 xDrive50i,2017,78500,Gasoline,42000
+790,Chevrolet,Tahoe LT,2018,75000,Gasoline,36000
+791,Ford,F-150 SVT Raptor,2014,89988,Gasoline,42500
+792,Subaru,Outback 3.0 R,2005,107000,Gasoline,7100
+793,Alfa,Romeo Giulia Ti,2019,21400,Gasoline,28500
+794,Mazda,CX-7 Grand Touring,2007,83150,Gasoline,6950
+795,Ford,F-150 Platinum,2018,92000,Diesel,36500
+796,Mercedes-Benz,GLE 350 Base,2021,15042,Gasoline,54599
+797,Audi,A7 3.0T Premium,2017,39000,Gasoline,35000
+798,RAM,2500 Laramie,2017,67483,Gasoline,46500
+800,Audi,S8 4.0T Plus,2017,54300,Gasoline,53500
+802,Audi,A8 L 4.0T,2016,142666,Gasoline,22000
+803,Ford,Ranger Sport SuperCab,2009,166200,Gasoline,6999
+805,BMW,M3 Base,2011,114890,Gasoline,20990
+806,Mercedes-Benz,E-Class E 350,2009,171000,Gasoline,4750
+807,Ford,Explorer sport,2019,90067,Gasoline,28590
+808,Chevrolet,Camaro 1LT,2014,97579,Gasoline,15000
+809,Mazda,MX-5 Miata RF,2017,52000,Gasoline,20500
+810,Jeep,Grand Cherokee L,2021,25968,Gasoline,38405
+811,MINI,Hardtop Cooper S,2016,41680,Gasoline,17495
+812,Saab,9-3 SE,2002,77200,Gasoline,7500
+813,BMW,X5 xDrive40i,2019,50000,Gasoline,43000
+814,Porsche,Macan,2021,21613,Gasoline,58998
+815,Audi,Q3 S line,2022,17377,Gasoline,39998
+816,GMC,Acadia SLE,2020,30426,Gasoline,29645
+817,Audi,allroad 2.7T,2005,153000,Gasoline,6500
+818,Mercury,Marauder Base,2004,56600,Gasoline,23000
+819,Hyundai,Genesis 3.8,2015,116612,Gasoline,12700
+820,Audi,SQ5 3.0T Premium,2018,72000,Gasoline,30000
+822,Lincoln,Navigator Base,2008,149000,Gasoline,10099
+823,BMW,M4 Base,2018,19300,Gasoline,64000
+824,Mazda,CX-9 Carbon Edition,2021,27836,Gasoline,36969
+825,Chevrolet,Corvette Stingray w/1LT,2023,3273,Gasoline,78999
+826,Ford,F-150 Lariat,2017,74349,Gasoline,36000
+827,Ford,F-250 Lariat,2019,85000,Diesel,55000
+828,Ferrari,Roma Base,2022,2250,Gasoline,259500
+829,Mercedes-Benz,GLS 450 Base,2017,46100,Gasoline,33000
+830,Hyundai,Santa Fe SEL,2019,49500,Gasoline,28000
+831,Mercedes-Benz,E-Class E 350,2012,31130,Gasoline,23500
+832,Ford,F-250 XLT SuperCab,2008,149460,Diesel,12240
+833,Mercury,Marauder Base,2003,90000,Gasoline,15500
+835,Mercedes-Benz,C-Class C 300,2013,98000,Gasoline,15500
+836,Volkswagen,Arteon SEL R-Line,2022,18655,Gasoline,38698
+837,Chevrolet,Suburban 2500 LS,2006,60000,Gasoline,24950
+839,Mitsubishi,Eclipse GS,2008,189500,Gasoline,6000
+840,Toyota,Land Cruiser Base,2016,91000,Gasoline,68500
+841,Genesis,G80 2.5T,2022,7396,Gasoline,41299
+842,Toyota,Tundra SR5 Access,2004,229450,Gasoline,8250
+843,Maserati,Quattroporte Modena Q4,2023,8603,Gasoline,125900
+844,Audi,RS 5 4.2,2014,49098,Gasoline,44900
+845,Nissan,Rogue S,2022,21212,Gasoline,28906
+846,Porsche,Panamera 4S,2010,62743,Gasoline,28600
+849,Volvo,S60 T6 Momentum,2020,46250,Gasoline,27800
+850,Mazda,CX-9 Touring Plus,2023,1930,Gasoline,40655
+852,Jeep,Wrangler Unlimited Sport,2020,24040,Gasoline,35273
+853,Toyota,Highlander Base,2001,231581,Gasoline,4300
+854,Ford,F-150 Lariat,2019,81000,Gasoline,38500
+856,Land,Rover Discovery Sport,2022,23568,Gasoline,44998
+857,Mazda,Mazda6 Touring,2020,78700,Gasoline,18000
+858,Kia,Optima EX,2015,109580,Gasoline,11900
+859,Lexus,RX 350 Base,2009,178000,Gasoline,4500
+860,Mitsubishi,Outlander Sport 2.4,2016,131193,Gasoline,11970
+861,Mercedes-Benz,GLS 450 Base,2017,106000,Gasoline,25900
+862,Audi,A3 2.0T Premium,2019,28211,Gasoline,27500
+864,Mercedes-Benz,CLA-Class CLA 250,2016,88600,Gasoline,16800
+865,INFINITI,FX50 Base,2011,84900,Gasoline,22450
+866,Kia,K5 EX,2021,11154,Gasoline,28998
+868,Mercedes-Benz,SLK-Class SLK230 Kompressor,2003,33272,Gasoline,11900
+869,Jeep,Wrangler SE,2003,71000,Gasoline,12499
+870,Kia,Telluride SX,2020,55400,Gasoline,36500
+871,Land,Rover LR4 Lux,2012,141525,Gasoline,14490
+872,Jaguar,XKR Base,2007,50000,Gasoline,21900
+873,BMW,M4 Base,2020,29140,Gasoline,71995
+876,RAM,1500 Laramie,2022,34121,Gasoline,48190
+877,BMW,ALPINA B7 Base,2013,36750,Gasoline,35999
+878,Mercedes-Benz,C-Class C280 4MATIC,2007,49626,Gasoline,12000
+879,Jeep,Compass High Altitude,2017,45000,Gasoline,16500
+881,BMW,X5 M Base,2022,8307,Gasoline,98900
+882,BMW,M3 Base,2023,4106,Gasoline,84645
+883,BMW,M3 Base,1999,184700,Gasoline,36950
+884,Maserati,Quattroporte S Q4,2018,57500,Gasoline,41900
+885,Acura,RDX Advance Package,2021,29000,Gasoline,39650
+886,Mercedes-Benz,GLA-Class GLA 250,2015,61675,Gasoline,19000
+887,Mercedes-Benz,Sprinter 3500XD High,2021,33300,Diesel,45000
+888,Cadillac,XTS Luxury,2014,62950,Gasoline,17498
+889,Chevrolet,Camaro 2LT,2015,56675,Gasoline,19750
+890,Porsche,Cayenne S,2013,92000,Gasoline,23000
+891,Dodge,Magnum R/T,2005,96000,Gasoline,12000
+892,INFINITI,Q70 3.7X,2014,33500,Gasoline,23000
+893,Land,Rover Range Rover,2020,16754,Gasoline,112000
+895,GMC,Acadia SLT-1,2016,119000,Gasoline,12500
+896,Lincoln,Corsair Reserve,2021,29336,Gasoline,36999
+897,RAM,2500 SLT,2017,86000,Diesel,41000
+898,RAM,3500 Laramie,2014,177000,Diesel,40500
+899,Mercedes-Benz,GL-Class GL 450,2013,93500,Gasoline,15900
+900,BMW,M5 Base,2018,47700,Gasoline,54999
+901,Ford,Mustang SVT Cobra,2003,97496,Gasoline,24500
+902,Acura,ILX Premium Package,2022,16120,Gasoline,26599
+903,Buick,Rainier CXL,2005,147589,Gasoline,2800
+905,Mercedes-Benz,S-Class S 560,2018,45791,Gasoline,52000
+906,INFINITI,QX80 Base,2016,60000,Gasoline,25950
+907,Buick,Encore Preferred,2019,50000,Gasoline,18795
+908,Mercedes-Benz,GLS 450 Base,2019,33481,Gasoline,43999
+909,Jeep,Liberty Limited,2010,107000,Gasoline,5900
+910,Mercedes-Benz,S-Class S 63,2011,60000,Gasoline,37000
+911,Audi,A8 L 3.0T,2016,55000,Gasoline,28000
+912,Mazda,CX-30 2.5 S,2022,4004,Gasoline,25500
+913,Bentley,Continental GT Speed,2009,57800,Gasoline,59400
+914,Bentley,Continental GT V8,2022,10972,Gasoline,217950
+915,Bentley,Flying Spur V8,2022,27858,Gasoline,197750
+916,Porsche,911 Carrera 4S,2018,31678,Gasoline,106798
+917,Volkswagen,Golf R 4-Door,2016,47144,Gasoline,29950
+918,Hyundai,Genesis Coupe 3.8,2011,165454,Gasoline,4000
+919,Ford,F-150 XLT,2018,98000,Gasoline,25500
+920,Hyundai,Tucson Limited,2020,39913,Gasoline,22749
+921,Ford,Mustang V6,2013,147191,Gasoline,12990
+922,BMW,435 i,2014,53600,Gasoline,25980
+924,Mercedes-Benz,AMG G 63,2020,1750,Gasoline,199995
+925,Dodge,Challenger SRT Hellcat,2020,2750,Gasoline,104500
+926,Porsche,Boxster Base,2013,40800,Gasoline,35500
+927,Porsche,Macan Base,2018,36798,Gasoline,49500
+928,Ford,F-250 XL,2021,77699,Diesel,49883
+929,Ford,Mustang GT,2010,87500,Gasoline,14900
+930,Chevrolet,Suburban LT,2020,93000,Gasoline,38500
+931,Mercedes-Benz,C-Class C 300,2018,41515,Gasoline,28251
+934,BMW,M5 Base,2018,31090,Gasoline,68000
+935,Mazda,Mazda3 FWD w/Premium,2022,21701,Gasoline,25099
+936,Nissan,Rogue SL,2016,97726,Gasoline,15998
+937,Audi,A7 3.0T Prestige,2015,73000,Diesel,34000
+938,Genesis,G80 3.8,2020,23600,Gasoline,31900
+939,Rolls-Royce,Ghost Base,2016,8755,Gasoline,166900
+940,BMW,M6 Gran Coupe,2019,20500,Gasoline,67900
+941,Ford,Mustang V6,2013,57912,Gasoline,18750
+942,BMW,650 i,2009,35000,Gasoline,18500
+944,Lincoln,MKC Reserve,2019,35469,Gasoline,30890
+945,Kia,Telluride EX,2022,14676,Gasoline,46787
+946,Lincoln,Navigator Reserve,2022,13750,Gasoline,79999
+947,Mercedes-Benz,S-Class S 550,2015,13300,Gasoline,62500
+948,Chevrolet,Suburban LT,2017,117000,Gasoline,27000
+950,Ford,Mustang EcoBoost Premium,2017,89352,Gasoline,20989
+951,Chevrolet,Cruze LS,2018,100000,Gasoline,8500
+953,Land,Rover Defender S,2023,15200,Gasoline,62999
+954,BMW,650 i,2012,39960,Gasoline,38995
+955,Ford,Mustang Base,2008,119000,Gasoline,13500
+956,Kia,K5 GT-Line,2022,10971,Gasoline,29998
+957,Mazda,Mazda3 i Touring,2014,118500,Gasoline,11500
+958,Kia,Stinger GT1,2021,8288,Gasoline,45899
+959,Chevrolet,Camaro ZL1,2023,2950,Gasoline,74500
+960,Mercedes-Benz,AMG G 63,2017,73000,Gasoline,78000
+961,Ford,Thunderbird Premium,2005,82000,Gasoline,14900
+963,GMC,Sierra 1500 SLT,2017,49105,Gasoline,39750
+964,Kia,Telluride LX,2023,5500,Gasoline,40000
+965,Chevrolet,Corvette Base,2005,36700,Gasoline,26000
+966,BMW,650 i,2014,40000,Gasoline,34000
+967,Nissan,Rogue SL,2017,78110,Gasoline,17500
+968,GMC,Acadia Denali,2015,74864,Gasoline,19780
+969,Cadillac,Escalade Premium Luxury,2021,15350,Gasoline,93500
+970,Nissan,GT-R Premium,2010,46100,Gasoline,72999
+971,Toyota,Highlander XLE,2018,61454,Gasoline,31000
+972,BMW,X7 xDrive40i,2020,45241,Gasoline,54500
+973,INFINITI,QX60 Base,2018,48000,Gasoline,27000
+974,Lexus,IS 250C Base,2010,68500,Gasoline,18500
+975,GMC,Sierra 1500 Denali,2019,43433,Gasoline,51899
+976,Chevrolet,SSR Base,2005,122961,Gasoline,20995
+977,Dodge,Challenger R/T,2014,92861,Gasoline,19750
+978,Hyundai,Equus Signature,2016,72000,Gasoline,21400
+979,Lamborghini,Aventador SVJ Base,2019,6929,Gasoline,649999
+980,Ford,Mustang GT,2003,83000,Gasoline,10500
+984,Jeep,Grand Cherokee L,2022,12875,Gasoline,42599
+985,Maserati,GranTurismo Sport,2015,32000,Gasoline,36000
+986,BMW,M5 Base,2013,61145,Gasoline,37500
+987,Mercedes-Benz,C-Class 4MATIC Sedan,2022,9612,Gasoline,43900
+989,Ford,F-150 Lariat,2011,152000,Gasoline,14000
+990,Audi,A4 2.0T Premium,2012,129567,Gasoline,7000
+991,BMW,540 i xDrive,2019,36000,Gasoline,41995
+992,BMW,X6 xDrive35i,2009,92008,Gasoline,12500
+993,Ford,Mustang Base,1998,63900,Gasoline,10300
+994,Toyota,Sequoia Limited,2012,150900,Gasoline,17500
+996,Land,Rover Range Rover,2018,38020,Gasoline,63998
+998,Subaru,WRX Base,2015,52500,Gasoline,23000
+999,Chevrolet,Suburban LT,2017,207571,Gasoline,21000
+1000,INFINITI,QX60 Pure,2020,39000,Gasoline,29900
+1001,Porsche,Cayman Base,2011,66000,Gasoline,28000
+1002,INFINITI,QX60 Base,2017,93500,Gasoline,16000
+1003,BMW,M4 Base,2018,7200,Gasoline,64000
+1004,Maserati,MC20 MC20,2022,1220,Gasoline,238900
+1006,BMW,M8 Base,2020,25520,Gasoline,84900
+1009,Mercedes-Benz,SL-Class SL 550,2011,41314,Gasoline,30999
+1010,Land,Rover Range Rover,2020,49899,Gasoline,64500
+1012,Lexus,ES 350 Base,2016,51335,Gasoline,25995
+1013,Porsche,718 Boxster GTS,2019,10400,Gasoline,99750
+1014,Mercedes-Benz,G-Class G 550,2020,20622,Gasoline,142998
+1015,RAM,1500 Big Horn,2022,19376,Gasoline,45861
+1016,Audi,R8 5.2 V10,2020,12245,Gasoline,187900
+1017,Mitsubishi,Lancer Evolution IX,2006,77000,Gasoline,57000
+1018,Acura,TL Technology,2013,40000,Gasoline,24000
+1019,Cadillac,CTS Luxury,2012,113000,Gasoline,10000
+1020,Chevrolet,Camaro 1SS,2022,7600,Gasoline,46000
+1022,Ford,Transit-350 XLT,2019,115000,Gasoline,39000
+1024,Jaguar,F-TYPE V6 S,2014,62194,Gasoline,32998
+1025,Jeep,Wrangler Sahara,2020,22138,Gasoline,38598
+1026,Porsche,718 Boxster S,2017,48900,Gasoline,62500
+1027,Audi,R8 5.2,2014,21800,Gasoline,117000
+1028,Lincoln,MKZ Base,2016,68200,Gasoline,16750
+1029,Chevrolet,S-10 LS Crew,2001,139000,Gasoline,7000
+1030,Mercedes-Benz,G-Class G 550,2021,76100,Gasoline,130000
+1031,Lexus,RX 350 RX,2022,14330,Gasoline,54998
+1032,BMW,750 i xDrive,2019,41906,Gasoline,45999
+1033,Chevrolet,Camaro 2SS,2016,164000,Gasoline,21500
+1035,Hyundai,Santa Cruz 2.5T,2022,22829,Gasoline,34580
+1036,Lexus,RX 350 F,2023,5483,Gasoline,59950
+1037,Land,Rover Range Rover,2020,46891,Gasoline,31000
+1038,Chevrolet,Suburban LT,2019,72000,Gasoline,39000
+1039,Porsche,718 Spyder Base,2020,3400,Gasoline,129900
+1040,Chevrolet,Camaro 1LT,2021,18000,Gasoline,30000
+1041,Jeep,Gladiator Freedom,2021,30630,Gasoline,39998
+1042,Toyota,Tacoma Double Cab,2007,24985,Gasoline,33580
+1043,GMC,Yukon Denali Ultimate,2023,9978,Gasoline,93999
+1044,Ford,Shelby GT350R Base,2018,18500,Gasoline,77999
+1045,Cadillac,Escalade Premium Luxury,2021,72843,Gasoline,79990
+1046,Buick,LaCrosse Base,2017,67500,Gasoline,20000
+1048,Mercedes-Benz,E-Class E 300,2017,36900,Gasoline,28500
+1050,Kia,Telluride EX,2022,35938,Gasoline,43329
+1052,Audi,S8 4.0T quattro,2023,4457,Gasoline,107900
+1053,Nissan,Armada Platinum,2018,108206,Gasoline,26498
+1054,Land,Rover Discovery HSE,2020,32705,Diesel,46598
+1055,Kia,Telluride S,2020,74026,Gasoline,32913
+1056,Lexus,GS 350 F,2020,24651,Gasoline,45950
+1059,Chevrolet,Silverado 3500 High,2015,77500,Diesel,54000
+1060,Maserati,Quattroporte Sport GT,2007,82000,Gasoline,7999
+1061,Dodge,Viper GTC,2017,1389,Gasoline,489995
+1062,Ford,Expedition Limited,2021,29830,Gasoline,55329
+1064,Kia,Optima LX,2019,62660,Gasoline,16500
+1065,Land,Rover Range Rover,2018,56006,Gasoline,59000
+1067,Lincoln,Town Car Base,2004,27600,Gasoline,14900
+1068,Honda,Civic Si,2012,47245,Gasoline,19600
+1072,Audi,RS 3 2.5T,2023,1900,Gasoline,78900
+1073,Hyundai,Genesis Coupe 3.8,2014,52060,Gasoline,15000
+1074,Porsche,Boxster RS 60,2008,58000,Gasoline,41500
+1075,Ford,F-250 XLT,2010,52246,Diesel,26095
+1076,Kia,Sorento EX,2016,64290,Gasoline,16999
+1077,Nissan,370Z Touring,2009,37500,Gasoline,21500
+1078,Genesis,G70 2.0T,2023,2121,Gasoline,40750
+1079,Land,Rover Range Rover,2013,57000,Gasoline,26000
+1080,Mercedes-Benz,S-Class S 560,2020,22000,Gasoline,69500
+1081,Ford,Bronco Wildtrak Advanced,2023,2000,Gasoline,66500
+1086,Audi,RS 5 4.2,2013,75965,Gasoline,35999
+1087,Jeep,Grand Cherokee L,2022,31804,Gasoline,48995
+1089,Chrysler,Crossfire Limited,2005,116320,Gasoline,6000
+1090,Audi,S5 4.2 Premium,2011,156875,Gasoline,9900
+1092,Cadillac,CT4 Luxury,2020,35200,Gasoline,28500
+1093,Maserati,Ghibli S Q4,2014,76000,Gasoline,19000
+1094,Jaguar,F-PACE 25t Premium,2019,29000,Gasoline,34500
+1095,BMW,750 i xDrive,2019,33499,Gasoline,44495
+1096,Acura,TLX V6 Advance,2019,25779,Gasoline,30999
+1097,GMC,Terrain SLT-1,2015,76296,Gasoline,9500
+1099,Nissan,Versa 1.8 S,2011,109902,Gasoline,4500
+1100,Mercedes-Benz,C-Class C 300,2019,23083,Gasoline,33500
+1101,Toyota,Matrix XRS,2003,143600,Gasoline,4199
+1102,RAM,1500 Limited,2021,22000,Gasoline,54800
+1104,Audi,A5 2.0T Premium,2018,53000,Gasoline,28000
+1105,Lincoln,Navigator Reserve,2019,44741,Gasoline,52999
+1106,Audi,A6 3.2 quattro,2008,202000,Gasoline,5700
+1107,Chevrolet,Silverado 1500 LT,2006,215000,Gasoline,6995
+1108,Mercedes-Benz,S-Class S 560,2019,77138,Gasoline,49998
+1109,Volvo,XC90 T6 Momentum,2018,90641,Gasoline,25999
+1110,Toyota,Camry SE,2011,177702,Gasoline,7700
+1111,Mercedes-Benz,Metris Base,2018,58350,Gasoline,29497
+1112,Chevrolet,Camaro 2LT,2010,86170,Gasoline,17000
+1113,Mazda,MX-5 Miata Grand,2012,36568,Gasoline,20199
+1114,Ford,Escape SE,2015,54357,Gasoline,16250
+1115,Mercedes-Benz,S-Class S 63,2015,20394,Gasoline,59598
+1117,Porsche,Boxster Base,2010,64800,Gasoline,20900
+1118,Toyota,4Runner Trail,2016,117780,Gasoline,27750
+1120,Land,Rover Range Rover,2016,86202,Gasoline,18750
+1122,Mercedes-Benz,SL-Class SL500 Roadster,2004,35400,Gasoline,24900
+1123,Jeep,Compass Trailhawk,2018,31000,Gasoline,22000
+1124,Mercedes-Benz,S-Class S 560,2018,103069,Gasoline,40998
+1125,Mercedes-Benz,G-Class G 550,2021,22480,Gasoline,135800
+1127,Lexus,IS-F Base,2010,41500,Gasoline,44800
+1128,BMW,335 i,2010,91545,Gasoline,13000
+1130,Buick,Lucerne CXL,2006,110000,Gasoline,5000
+1131,Lincoln,MKX Reserve,2016,88000,Gasoline,18500
+1132,Nissan,Armada Platinum,2018,42833,Gasoline,37000
+1133,Porsche,911 Carrera,2020,23278,Gasoline,114998
+1135,BMW,435 Gran Coupe,2015,60100,Gasoline,24995
+1136,Jeep,Wagoneer Series III,2022,17381,Gasoline,69685
+1137,Cadillac,ATS 2.5L,2013,63172,Gasoline,12995
+1138,Ford,Transit Connect XLT,2010,72000,Gasoline,10900
+1140,Audi,S5 3.0T Premium,2014,67900,Gasoline,25990
+1141,Toyota,Tundra SR,2018,51000,Gasoline,38000
+1142,Jeep,Wrangler Unlimited Freedom,2013,54500,Gasoline,35000
+1143,Maserati,Quattroporte Base,2006,61840,Gasoline,16500
+1144,Mercedes-Benz,CLS-Class CLS500,2006,28950,Gasoline,16750
+1145,GMC,Sierra 3500 SLE,2002,300000,Diesel,5000
+1146,Nissan,Frontier SL,2011,103400,Gasoline,17000
+1147,BMW,M5 Base,2023,816,Gasoline,109900
+1148,Porsche,911 R,2016,719,Gasoline,489000
+1151,BMW,M8 Competition,2022,5018,Gasoline,114998
+1152,Porsche,911 Carrera S,2010,13850,Gasoline,71400
+1153,Volvo,XC70 3.2,2008,46700,Gasoline,11400
+1154,Chrysler,300 Touring,2021,21478,Gasoline,27798
+1156,Porsche,Cayman S,2006,31075,Gasoline,36250
+1158,BMW,M5 Competition,2020,35400,Gasoline,71950
+1159,Audi,S4 4.2 quattro,2004,74030,Gasoline,16000
+1160,Ford,F-250 Platinum,2021,48549,Diesel,69998
+1161,Kia,Seltos S,2023,5182,Gasoline,32500
+1162,RAM,ProMaster 2500 High,2019,31681,Gasoline,33500
+1163,BMW,M760 M760i xDrive,2020,23430,Gasoline,80998
+1164,Mercedes-Benz,E-Class E 400,2015,30300,Gasoline,29000
+1165,Cadillac,XTS Luxury,2016,112000,Gasoline,14599
+1166,INFINITI,Q50 Premium,2014,127356,Gasoline,19990
+1167,Volkswagen,Touareg V6 Executive,2017,50600,Gasoline,28890
+1169,Toyota,Tundra SR5,2021,33455,Gasoline,44750
+1170,BMW,X1 sDrive28i,2022,43000,Gasoline,35750
+1171,Mercedes-Benz,GL-Class GL 550,2016,46102,Gasoline,35300
+1172,Cadillac,XTS Luxury,2019,59000,Gasoline,21000
+1173,Jaguar,XJ8 Base,2004,134000,Gasoline,9500
+1174,Chevrolet,Camaro ZL1,2020,3715,Gasoline,150000
+1175,Mercedes-Benz,Sprinter 2500,2012,100245,Diesel,24000
+1176,Mercedes-Benz,C-Class C 300,2022,8583,Gasoline,42999
+1177,Dodge,Dakota SLT,2003,141800,Gasoline,5700
+1178,Audi,A5 2.0T Premium,2012,77000,Gasoline,13800
+1179,Audi,A5 2.0T Premium,2018,67035,Gasoline,31500
+1180,Audi,S5 3.0 Premium,2012,61450,Gasoline,19500
+1181,Porsche,Panamera GTS,2015,39500,Gasoline,52590
+1182,Mercedes-Benz,AMG GT C,2020,6600,Gasoline,128900
