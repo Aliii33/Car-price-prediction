@@ -1,0 +1,22 @@
+/* Reset styles for the body */
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black; /* Change background color to black */
+}
+
+/* Optionally, you can remove or modify the bg-dark class */
+.bg-dark {
+    background-color: black; /* Change background color to black */
+}
+
+/* Add margin-top utility class */
+.mt-50 {
+    margin-top: 50px;
+}
+
+/* Apply a border to the canvas ID */
+#canvas {
+    border: 2px solid black;
+}
