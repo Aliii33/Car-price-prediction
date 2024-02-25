@@ -30,7 +30,7 @@
                         <div class="col-3 form-group">
                             <label><b>Select Company: </b></label>
                             <select class="selectpicker form-control" id="brand" name="brand" required="1" onchange="load_model(this.id, 'model')">
-                                {% for brand in brand %}
+                                {% for brand in companies %}
                                 <option value="{{brand}}">{{brand}}</option>
                                 {% endfor %}
                             </select>
@@ -39,7 +39,7 @@
                         <div class="col-3 form-group">
                             <label><b>Select Car Model: </b></label>
                             <select class="select picker form-control" id="model" name="model" required="1" onchange="load_model(this.id, 'model')">>
-                                {% for model in model %}
+                                {% for model in car_models %}
                                 <option value="{{model}}">{{model}}</option>
                                 {% endfor %}
                             </select>
@@ -48,7 +48,7 @@
                         <div class="col-3 form-group">
                             <label><b>Select Model Year: </b></label>
                             <select class="select picker form-control" id="model_year" name="model_year" required="1">
-                                {% for model_year in model_year %}
+                                {% for model_year in year %}
                                 <option value="{{model_year}}">{{model_year}}</option>
                                 {% endfor %}
                             </select>
@@ -97,49 +97,30 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
 <script>
-    function load_model(brand_id, model_id) {
-        var brand = document.getElementById(brand_id);
-        var model = document.getElementById(model_id);
-        console.log(brand.value);
-        model.value = "";
-        model.innerHTML = "";
-        {% for brand in model %}
-        if (brand.value == "{{ brand }}") {
-            {% for model in model %}
-            {% if brand in model %}
-            var newOption = document.createElement("option");
-            newOption.value = "{{ model }}";
-            newOption.innerHTML = "{{ model }}";
-            model.options.add(newOption);
-            {% endif %}
-            {% endfor %}
-        }
-        {% endfor %}
-    }
 
-    function form_handler(event) {
-        event.preventDefault(); // Don't submit the form normally
-    }
+   function form_handler(event) {
+       event.preventDefault(); // Don't submit the form normally
+   }
 
-    function send_data() {
-        document.querySelector('form').addEventListener("submit", form_handler);
+   function send_data() {
+       document.querySelector('form').addEventListener("submit", form_handler);
 
-        var fd = new FormData(document.querySelector('form'));
+       var fd = new FormData(document.querySelector('form'));
 
-        var xhr = new XMLHttpRequest({ mozSystem: true });
+       var xhr = new XMLHttpRequest({ mozSystem: true });
 
-        xhr.open('POST', '/predict', true);
-        document.getElementById('prediction').innerHTML = "Wait! Predicting Price.....";
-        xhr.onreadystatechange = function () {
-            if (xhr.readyState == XMLHttpRequest.DONE) {
-                document.getElementById('prediction').innerHTML = "Prediction: $" + xhr.responseText;
-            }
-        };
+       xhr.open('POST', '/predict', true);
+       document.getElementById('prediction').innerHTML = "Wait! Predicting Price.....";
+       xhr.onreadystatechange = function () {
+           if (xhr.readyState == XMLHttpRequest.DONE) {
+               document.getElementById('prediction').innerHTML = "Prediction: $" + xhr.responseText;
+           }
+       };
 
-        xhr.onload = function () { };
+       xhr.onload = function () { };
 
-        xhr.send(fd);
-    }
+       xhr.send(fd);
+   }
 </script>
 
 </body>
